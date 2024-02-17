@@ -5,3 +5,7 @@ This project looks at how to detect tiredness in a driver in real time by lookin
 
 # Flow diagrm for the project
 ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/bc295ac4-02a8-4e77-970f-38da9faaa739)
+
+
+# Result/Optput:
+![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/0e1591d5-d6c3-4089-8452-185e6987ec3c)
