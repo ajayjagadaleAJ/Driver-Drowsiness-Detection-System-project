@@ -20,13 +20,13 @@ A computer vision system that can automatically detect driver drowsiness in a re
 # project Modules
 The Model work is mostly divided into three steps:
 1. Face, eye and mouth detection
-   ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/37afb38c-4d3c-4887-8c81-20964974bdd1)
+   ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/37afb38c-4d3c-4887-8c81-20964974bdd1)<br>
 
-3. Eye closure detection
+3. Eye closure detection <br>
    
-   ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/8488aed4-72d8-4b3f-9905-e382873240f9)
+   ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/8488aed4-72d8-4b3f-9905-e382873240f9)<br>
    
-   ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/b90f4f8b-cc1d-477b-9adb-3b85f5d72416)
+   ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/b90f4f8b-cc1d-477b-9adb-3b85f5d72416)<br>
 
 5. Open Mouth detection
    ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/9d9df481-a016-4886-b243-5817cf3e265e)
