@@ -8,12 +8,12 @@ This can be used by Drivers  who tend to drive for a longer period of time that 
 The example code is in Python (version 2.7 or higher will work).
 
 # Python Libraries
-1.import cv2
-2.import imutils
-3.import dlib
-4.import scipy
-5.import numpy
-6.import pygame
+1.import cv2 <br>
+2.import imutils <br>
+3.import dlib <br>
+4.import scipy <br>
+5.import numpy <br>
+6.import pygame <br>
 
 # Description
 A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
