@@ -19,7 +19,7 @@ The example code is in Python (version 2.7 or higher will work).
 A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
 # project Modules
 The Model work is mostly divided into three steps:
-1. Face, eye and mouth detection
+1. Face, eye and mouth detection<br>
    ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/37afb38c-4d3c-4887-8c81-20964974bdd1)<br>
 
 3. Eye closure detection <br>
