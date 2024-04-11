@@ -23,7 +23,9 @@ The Model work is mostly divided into three steps:
    ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/37afb38c-4d3c-4887-8c81-20964974bdd1)
 
 3. Eye closure detection
+   
    ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/8488aed4-72d8-4b3f-9905-e382873240f9)
+   
    ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/b90f4f8b-cc1d-477b-9adb-3b85f5d72416)
 
 5. Open Mouth detection
