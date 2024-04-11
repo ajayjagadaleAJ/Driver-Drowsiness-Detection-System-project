@@ -20,6 +20,8 @@ A computer vision system that can automatically detect driver drowsiness in a re
 # project Modules
 The Model work is mostly divided into three steps:
 1. Face, eye and mouth detection<br>
+   Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye.It checks 20 consecutive frames and if 
+   the Eye Aspect ratio is less than 0.25, Alert is generated.
    ![image](https://github.com/ajayjagadaleAJ/Driver-Drowsiness-Detection-System-project/assets/123382045/37afb38c-4d3c-4887-8c81-20964974bdd1)<br>
 
 3. Eye closure detection <br>
